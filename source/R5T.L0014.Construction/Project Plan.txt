@@ -1,0 +1,3 @@
+R5T.L0014.Construction - Construction project for Microsoft.Extensions.Hosting Nuget package selector..
+
+GOALS:
