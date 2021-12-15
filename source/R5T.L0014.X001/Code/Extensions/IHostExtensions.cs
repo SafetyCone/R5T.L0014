@@ -1,10 +1,8 @@
 using System;
 using System.Threading.Tasks;
 
-using Microsoft.Extensions.Hosting;
 
-
-namespace System
+namespace Microsoft.Extensions.Hosting
 {
     public static class IHostExtensions
     {
